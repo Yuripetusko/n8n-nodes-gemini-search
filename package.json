@@ -12,13 +12,10 @@
   ],
   "license": "MIT",
   "homepage": "https://n8n.io",
-  "author": {
-    "name": "Rufaro Mugabe",
-    "email": "rufarorevmugabe@gmail.com"
-  },
+  "author": "Rufaro Mugabe <rufarorevmugabe@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Yuripetusko/n8n-nodes-gemini-search.git"
+    "url": "git+https://github.com/Yuripetusko/n8n-nodes-gemini-search.git"
   },
   "main": "index.js",
   "scripts": {
@@ -64,5 +61,8 @@
   },
   "peerDependencies": {
     "n8n-workflow": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/Yuripetusko/n8n-nodes-gemini-search/issues"
   }
 }
