@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rufaromugabe/n8n-nodes-gemini-search.git"
+    "url": "https://github.com/Yuripetusko/n8n-nodes-gemini-search.git"
   },
   "main": "index.js",
   "scripts": {

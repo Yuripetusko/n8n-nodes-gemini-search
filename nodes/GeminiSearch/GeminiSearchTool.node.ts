@@ -57,12 +57,12 @@ export class GeminiSearchTool implements INodeType {
             value: 'gemini-2.0-flash',
           },
           {
-            name: 'Gemini 2.0 Pro',
-            value: 'gemini-2.0-pro',
+            name: 'Gemini 2.5 Pro Preview',
+            value: 'gemini-2.5-pro-preview-05-06',
           },
           {
-            name: 'Gemini 2.5 Pro',
-            value: 'gemini-2.5-pro',
+            name: 'Gemini 2.5 Flash Preview',
+            value: 'gemini-2.5-flash-preview-04-17',
           },
         ],
         default: 'gemini-2.0-flash',
